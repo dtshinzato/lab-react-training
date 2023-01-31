@@ -1,0 +1,6 @@
+.Saudacao {
+  border: 1px solid black;
+  display: flex;
+  margin: 15px;
+  padding: 5px;
+}
