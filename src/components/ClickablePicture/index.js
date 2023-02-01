@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Photo from '../../assets/images/maxence.png';
 import PhotoGlasses from '../../assets/images/maxence-glasses.png';
 
-export function ClickablePicture(props) {
+export function ClickablePicture() {
   const [img, setImg] = useState(Photo);
 
   function Oculos() {
